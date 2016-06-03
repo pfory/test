@@ -1,1 +1,1 @@
-print("Wait 5 seconds please")tmr.alarm(0, 5000, 0, function() dofile('temperatures.lua') end)
+print("Wait 5 seconds please")tmr.alarm(0, 8000, 0, function() dofile('temperatures.lua') end)
